@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Arushi Gupta
 
-I'm a passionate Full Stack Developer with hands-on experience in building enterprise-grade applications using modern technologies and frameworks. I enjoy crafting scalable solutions, following clean architecture principles, and solving real-world problems through technology.
+I'm a passionate **Full Stack Developer** with hands-on experience in building **enterprise-grade applications** using modern technologies and frameworks. I enjoy crafting scalable solutions, following clean architecture principles, and solving real-world problems through technology.
 Always excited to **learn, grow,** and take on **new challenges**! 🚀
 
 ---
